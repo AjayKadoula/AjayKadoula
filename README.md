@@ -20,9 +20,9 @@ My domain of interests includes Competitive Programming, Object-Oriented Designi
 You can also contact me at:
 
 
-[LinkedIn](https://www.linkedin.com/in/ajaykadoula/) 
+[LinkedIn](https://www.linkedin.com/in/ajaykadoula/){:target="_blank"} 
 
-[Twitter](https://stackoverflow.com/users/9614482/ajay-kadoula) 
+[Twitter](https://stackoverflow.com/users/9614482/ajay-kadoula){:target="_blank"} 
 
 
 [Facebook](https://www.facebook.com/ajay.kadoula.39/) 
