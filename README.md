@@ -9,7 +9,7 @@
 
 Hi there! 
 
-I am <b>Ajay Kadoula</b>, I am pursuing my Mtech in Computer Science & Engineering from [Indian Institute of Technology (Indian School of Mines), Dhanbad!](https://iitism.ac.in/). I am a Full Stack Developer.
+I am <b>Ajay Kadoula</b>, I am pursuing my Mtech in Computer Science & Engineering from <a href="https://iitism.ac.in/" target="_blank">Indian Institute of Technology (Indian School of Mines), Dhanbad!</a>. I am a Full Stack Developer.
 
 I am largely self-taught and have focused heavily on online resources as well as hands-on implementation to pursue my dream of becoming a successful Software Engineer. I have recently completed my summer internship as a Web developer at Famore Solution Pvt Ltd, and currently I am developing React Native based Bus Routes assistance App with Kabchefs. We are developing a MongoDb based single buses routes timetable plateform for all states roadways and private buses.
 
@@ -19,10 +19,9 @@ My domain of interests includes Competitive Programming, Object-Oriented Designi
 
 You can also contact me at:
 
+<a href="https://www.linkedin.com/in/ajaykadoula/" target="_blank">LinkedIn</a>
 
-[LinkedIn](https://www.linkedin.com/in/ajaykadoula/){:target="_blank"} 
+<a href="https://stackoverflow.com/users/9614482/ajay-kadoula" target="_blank">Twitter</a>
 
-[Twitter](https://stackoverflow.com/users/9614482/ajay-kadoula){:target="_blank"} 
+<a href="https://www.facebook.com/ajay.kadoula.39/" target="_blank">Facebook</a>
 
-
-[Facebook](https://www.facebook.com/ajay.kadoula.39/) 
