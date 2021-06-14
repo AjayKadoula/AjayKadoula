@@ -1,6 +1,10 @@
 
 ![alt text](https://github.com/AjayKadoula/AjayKadoula/blob/0078af4dbbd1139f93cecdd65045dfdfd2668f83/ak_bg.png)
 
+
+
+
+
 <h1> Welcome  👋</h1><hr>
 
 Hi there! 
