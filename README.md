@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/AjayKadoula/AjayKadoula/blob/0078af4dbbd1139f93cecdd65045dfdfd2668f83/ak_bg1.png)
+![alt text](https://github.com/AjayKadoula/AjayKadoula/blob/894132b3c7e4fb0c3270cccd718ae359b83fba4d/ak_bg1.png)
 
 
 <hr>
