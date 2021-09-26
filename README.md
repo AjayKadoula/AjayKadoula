@@ -1,6 +1,6 @@
 
 ![alt text](https://github.com/AjayKadoula/AjayKadoula/blob/894132b3c7e4fb0c3270cccd718ae359b83fba4d/ak_bg1.png)
-
+![](https://komarev.com/ghpvc/?username=AjayKadoula)
 
 <hr>
 <br>
