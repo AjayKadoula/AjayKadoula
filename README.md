@@ -9,7 +9,7 @@
 
 Hi there! 
 
-I am <b>Ajay Kadoula</b>, and I am a software engineer 2 @ Dell Technologies. I have completed my Mtech in Computer Science & Engineering from <a href="https://iitism.ac.in/" target="_blank">Indian Institute of Technology (Indian School of Mines), Dhanbad!</a>.
+I am <b>Ajay Kadoula</b>, and I work as a software engineer 2 @ Dell Technologies. I have completed my Mtech in Computer Science & Engineering from <a href="https://iitism.ac.in/" target="_blank">Indian Institute of Technology (Indian School of Mines), Dhanbad!</a>.
 
 
 I am largely self-taught and have focused heavily on online resources as well as hands-on implementation to pursue my dream of becoming a successful Software Engineer. Fortunately, I have 4 internship experiences with early-stage and Apart from it, I found <a href="#" >Kabchefs</a> an open source community from different colleges). We had completed two projects <a href="#" >mybustime.in</a> and a ReactNative-based Bus Routes assistance App with Kabchefs. 
