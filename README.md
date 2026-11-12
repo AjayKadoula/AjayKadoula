@@ -4,25 +4,34 @@
 
 ![](https://komarev.com/ghpvc/?username=AjayKadoula)
 
-I'm building **AawazAI**, an AI back-office for Indian businesses of every size,
-from a single counter to a multi-branch, multi-GSTIN company.
-The owner says it in chat or voice, checks it, and the books are done.
+I'm building **AawazAI, the AI-native back-office** for Indian businesses and the CAs who serve them.
+
+**The goal:** automate more than 90% of back-office work with AI, and make every business ready for GenAI,
+from a single counter to a multi-branch, multi-GSTIN company. The owner says it in chat or voice and checks it,
+the AI does the work, and the CA reviews instead of re-keying.
 *Say it, check it, save it.*
 
-### What AawazAI does
-- GST billing with e-invoice and e-way bill details, estimates and challans
-- TDS, receivables and payables with ageing, stock across godowns
-- P&L, balance sheet and the pack a CA files from
-- Team access for an accountant and the CA
-- Tally-style keyboard entry, plus voice in English, Hindi, Hinglish, Kannada and Telugu
+### Where we start: AI accounting and AI GST filing
+- **AI accounting:** bookkeeping from chat, voice and scanned bills into a double-entry ledger.
+  GST billing with e-invoice and e-way bill details, TDS, receivables and payables with ageing,
+  stock across godowns, P&L and balance sheet.
+- **AI GST filing for CAs:** clean, reconciled sales and purchase data and GSTR-1 / 3B ready to file,
+  so a CA spends minutes per client instead of hours.
 
-Live on **[Google Play](https://play.google.com/store/apps/details?id=biz.aawaz.app)**, the **[Microsoft Store](https://apps.microsoft.com/detail/9NL32SKFS2V6)** (Windows) and as an **[Edge add-on](https://microsoftedge.microsoft.com/addons/detail/aawazai/kmfjlcmficoojodhboefheclmfpccnle)**.
+### Where we're going: the whole back-office
+- **For CAs:** one workspace across clients, with the routine work prepared by AI and only exceptions left for review
+- **For businesses:** compliance, payroll, collections, reports and connectors (Tally, marketplaces, payments) on autopilot
+- **AI transformation:** helping every business type move its back-office to AI, with every AI action
+  explainable, auditable and reversible
+
+Live on **[Google Play](https://play.google.com/store/apps/details?id=biz.aawaz.app)**, the **[Microsoft Store](https://apps.microsoft.com/detail/9NL32SKFS2V6)** (Windows) and as an **[Edge add-on](https://microsoftedge.microsoft.com/addons/detail/aawazai/kmfjlcmficoojodhboefheclmfpccnle)**,
+in English, Hindi, Hinglish, Kannada and Telugu.
 
 ### What I work on
-- **Conversational bookkeeping:** an LLM tool-calling agent over a double-entry ledger.
-  Every write is previewed and confirmed, audited and reversible.
+- **AI agents for accounting:** LLM tool-calling over a double-entry ledger.
+  Every write is previewed and confirmed, audited and reversible, with a confidence score on every AI output.
 - **Voice:** Indian-language ASR/TTS with provider fallback
-- **Platform:** multi-tenant SaaS, GST document generation, connectors (Tally, marketplaces, payments)
+- **Platform:** multi-tenant SaaS, GST documents and filing data, team access for the accountant and the CA
 
 **Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · Next.js · TypeScript · Docker · LLMs
 
