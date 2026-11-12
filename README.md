@@ -4,14 +4,15 @@
 
 ![](https://komarev.com/ghpvc/?username=AjayKadoula)
 
-I'm building **AawazAI, an AI-native company**: the AI back-office for Indian businesses and the CAs who serve them.
+I'm building **AawazAI, an AI-native company**: the AI back-office for businesses and the accountants who serve them.
+We're starting with Indian businesses and CAs, and building to take back-office work worldwide.
 
 **The goal:** automate more than 90% of back-office work with AI, and make every business ready for GenAI,
 from a single counter to a multi-branch, multi-GSTIN company. The owner says it in chat or voice and checks it,
 the AI does the work, and the CA reviews instead of re-keying.
 *Say it, check it, save it.*
 
-### Where we start: AI accounting and AI GST filing
+### Where we start: AI accounting and AI GST filing in India
 - **AI accounting:** bookkeeping from chat, voice and scanned bills into a double-entry ledger.
   GST billing with e-invoice and e-way bill details, TDS, receivables and payables with ageing,
   stock across godowns, P&L and balance sheet.
@@ -23,6 +24,8 @@ the AI does the work, and the CA reviews instead of re-keying.
 - **For businesses:** compliance, payroll, collections, reports and connectors (Tally, marketplaces, payments) on autopilot
 - **AI transformation:** helping every business type move its back-office to AI, with every AI action
   explainable, auditable and reversible
+- **Worldwide:** India first, then the same AI back-office for businesses and accountants in other countries,
+  under their own tax and compliance rules
 
 Live on **[Google Play](https://play.google.com/store/apps/details?id=biz.aawaz.app)**, the **[Microsoft Store](https://apps.microsoft.com/detail/9NL32SKFS2V6)** (Windows) and as an **[Edge add-on](https://microsoftedge.microsoft.com/addons/detail/aawazai/kmfjlcmficoojodhboefheclmfpccnle)**,
 in English, Hindi, Hinglish, Kannada and Telugu.
