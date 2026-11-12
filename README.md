@@ -16,7 +16,7 @@ The owner says it in chat or voice, checks it, and the books are done.
 - Team access for an accountant and the CA
 - Tally-style keyboard entry, plus voice in English, Hindi, Hinglish, Kannada and Telugu
 
-Live on **Google Play**, the **Microsoft Store** (Windows) and as an **Edge add-on**.
+Live on **[Google Play](https://play.google.com/store/apps/details?id=biz.aawaz.app)**, the **[Microsoft Store](https://apps.microsoft.com/detail/9NL32SKFS2V6)** (Windows) and as an **[Edge add-on](https://microsoftedge.microsoft.com/addons/detail/aawazai/kmfjlcmficoojodhboefheclmfpccnle)**.
 
 ### What I work on
 - **Conversational bookkeeping:** an LLM tool-calling agent over a double-entry ledger.
