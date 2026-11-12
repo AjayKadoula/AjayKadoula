@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=AjayKadoula)
 
-I'm building **AawazAI, the AI-native back-office** for Indian businesses and the CAs who serve them.
+I'm building **AawazAI, an AI-native company**: the AI back-office for Indian businesses and the CAs who serve them.
 
 **The goal:** automate more than 90% of back-office work with AI, and make every business ready for GenAI,
 from a single counter to a multi-branch, multi-GSTIN company. The owner says it in chat or voice and checks it,
