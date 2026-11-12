@@ -7,17 +7,17 @@
 I'm building **AawazAI, an AI-native company**: the AI back-office for businesses and the accountants who serve them.
 We're starting with Indian businesses and CAs, and building to take back-office work worldwide.
 
-**The goal:** automate more than 90% of back-office work with AI, and make every business ready for GenAI,
+**The goal:** automate more than 95% of back-office work with AI, starting with the work of CAs, and make every business ready for GenAI,
 from a single counter to a multi-branch, multi-GSTIN company. The owner says it in chat or voice and checks it,
 the AI does the work, and the CA reviews instead of re-keying.
 *Say it, check it, save it.*
 
-### Where we start: AI accounting and AI GST filing in India
+### Where we start: CAs in India, with AI GST filing and AI accounting
+- **AI GST filing for CAs:** clean, reconciled sales and purchase data and GSTR-1 / 3B ready to file,
+  so a CA spends minutes per client instead of hours.
 - **AI accounting:** bookkeeping from chat, voice and scanned bills into a double-entry ledger.
   GST billing with e-invoice and e-way bill details, TDS, receivables and payables with ageing,
   stock across godowns, P&L and balance sheet.
-- **AI GST filing for CAs:** clean, reconciled sales and purchase data and GSTR-1 / 3B ready to file,
-  so a CA spends minutes per client instead of hours.
 
 ### Where we're going: the whole back-office
 - **For CAs:** one workspace across clients, with the routine work prepared by AI and only exceptions left for review
