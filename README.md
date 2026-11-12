@@ -1,24 +1,36 @@
+# Ajay Kadoula
 
-![alt text](https://github.com/AjayKadoula/AjayKadoula/blob/894132b3c7e4fb0c3270cccd718ae359b83fba4d/ak_bg1.png)
+**Co-founder, [AawazAI](https://aawazai.com)** · Gencrafter Technologies · IIT (ISM) Dhanbad, M.Tech CSE
+
 ![](https://komarev.com/ghpvc/?username=AjayKadoula)
 
-<hr>
-<br>
+I'm building **AawazAI**, an AI back-office for Indian businesses of every size,
+from a single counter to a multi-branch, multi-GSTIN company.
+The owner says it in chat or voice, checks it, and the books are done.
+*Say it, check it, save it.*
 
-<h1> Welcome  👋</h1>
+### What AawazAI does
+- GST billing with e-invoice and e-way bill details, estimates and challans
+- TDS, receivables and payables with ageing, stock across godowns
+- P&L, balance sheet and the pack a CA files from
+- Team access for an accountant and the CA
+- Tally-style keyboard entry, plus voice in English, Hindi, Hinglish, Kannada and Telugu
 
-Hi there! 
+Live on **Google Play**, the **Microsoft Store** (Windows) and as an **Edge add-on**.
 
-I am <b>Ajay Kadoula</b>, and I work as a software engineer 2 @ Dell Technologies. I have completed my Mtech in Computer Science & Engineering from <a href="https://iitism.ac.in/" target="_blank">Indian Institute of Technology (Indian School of Mines), Dhanbad!</a>.
+### What I work on
+- **Conversational bookkeeping:** an LLM tool-calling agent over a double-entry ledger.
+  Every write is previewed and confirmed, audited and reversible.
+- **Voice:** Indian-language ASR/TTS with provider fallback
+- **Platform:** multi-tenant SaaS, GST document generation, connectors (Tally, marketplaces, payments)
 
+**Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · Next.js · TypeScript · Docker · LLMs
 
-I am largely self-taught and have focused heavily on online resources as well as hands-on implementation to pursue my dream of becoming a successful Software Engineer. 
+### Before AawazAI
+- **Software Engineer 2, Dell Technologies:** GenAI on Dell infrastructure.
+  Co-authored blogs on running Llama 3 on PowerEdge XE9680 with AMD MI300X and vLLM.
+- **Speaker, OneISG Dev Con:** Quantum Algorithms for Recommendation Systems
+- **Writing:** *Web 3.0: Is It a Myth or a New Era of the Internet?*
 
-You can also contact me at:
-
-<a href="https://www.linkedin.com/in/ajaykadoula/" >LinkedIn</a>
-
-<a href="https://stackoverflow.com/users/9614482/ajay-kadoula" target="_blank">Twitter</a>
-
-<a href="https://www.facebook.com/ajay.kadoula.39/" target="_blank">Facebook</a>
-
+### Reach me
+[LinkedIn](https://www.linkedin.com/in/ajaykadoula/) · [X](https://x.com/ajaykadoula) · [Stack Overflow](https://stackoverflow.com/users/9614482/ajay-kadoula) · [AawazAI](https://aawazai.com)
