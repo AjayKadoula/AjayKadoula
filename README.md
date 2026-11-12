@@ -27,6 +27,7 @@ Live on **[Google Play](https://play.google.com/store/apps/details?id=biz.aawaz.
 **Stack:** Python · FastAPI · PostgreSQL · Redis · Celery · Next.js · TypeScript · Docker · LLMs
 
 ### Before AawazAI
+- **IBM Cloud, Order Management and Billing:** worked on the systems that take cloud orders through to billing.
 - **Software Engineer 2, Dell Technologies:** GenAI on Dell infrastructure.
   Co-authored blogs on running Llama 3 on PowerEdge XE9680 with AMD MI300X and vLLM.
 - **Speaker, OneISG Dev Con:** Quantum Algorithms for Recommendation Systems
