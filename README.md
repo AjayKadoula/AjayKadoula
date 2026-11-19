@@ -7,7 +7,7 @@
 I'm building **AawazAI, an AI-native company**: the AI back-office for businesses and the accountants who serve them.
 We're starting with Indian businesses and CAs, and building to take back-office work worldwide.
 
-**The goal:** automate more than 95% of back-office work with AI, starting with the work of CAs, and make every business ready for GenAI,
+**The goal:** Our ambition is to automate more than 95% of repetitive back-office work through AI, while keeping the remaining 5% focused on human judgment, approvals, complex exceptions and accountability. Starting with the work of CAs, and make every business ready for GenAI,
 from a single counter to a multi-branch, multi-GSTIN company. The owner says it in chat or voice and checks it,
 the AI does the work, and the CA reviews instead of re-keying.
 *Say it, check it, save it.*
